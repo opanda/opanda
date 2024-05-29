@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @opanda
 - 👀 I’m interested in new technologies, games and music
-- 🌱 I’m currently learning python, angular and react
+- 🌱 I’m currently software engineer working with node.js and learning about AI
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @la_burger_queen
 
